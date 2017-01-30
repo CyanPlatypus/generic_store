@@ -1,0 +1,39 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsBooks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.Properties.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsBooks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsBooks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.storeForm.resources
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.exe
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.pdb
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.exe
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.pdb
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.NewBookWindow.resources
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.StoreWindow.resources
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.Properties.Resources.resources
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VSprojects\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.exe
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.pdb
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.exe
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.pdb
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.NewBookWindow.resources
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.Properties.Resources.resources
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VSprojects\Books\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.StoreWindow.resources
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.exe
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.pdb
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.NewBookWindow.resources
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.StoreWindow.resources
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\WindowsFormsBooks.Properties.Resources.resources
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.exe
+D:\VSprojects\booksSaves\WindowsFormsBooks\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.pdb
